@@ -1,0 +1,152 @@
+[
+    {
+        "id": "saumerios-01",
+        "titulo": "Saumerios de Patchouli",
+        "imagen": "./img/saumeriosfotos/01.jpg",
+        "categoria": {
+            "nombre": "Saumerios",
+            "id": "saumerios"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "saumerios-02",
+        "titulo": "Saumerios de Lavanda",
+        "imagen": "./img/saumeriosfotos/02.jpg",
+        "categoria": {
+            "nombre": "Saumerios",
+            "id": "saumerios"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "saumerios-03",
+        "titulo": "Saumerios de Incienso",
+        "imagen": "./img/saumeriosfotos/03.jpg",
+        "categoria": {
+            "nombre": "Saumerios",
+            "id": "saumerios"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "saumerios-04",
+        "titulo": "Saumerios de Palo santo",
+        "imagen": "./img/saumeriosfotos/04.jpg",
+        "categoria": {
+            "nombre": "Saumerios",
+            "id": "saumerios"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "saumerios-05",
+        "titulo": "Saumerios de Sandalo",
+        "imagen": "./img/saumeriosfotos/05.jpg",
+        "categoria": {
+            "nombre": "Saumerios",
+            "id": "saumerios"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "magistrales-01",
+        "titulo": "Magistrales 1",
+        "imagen": "./img/magistralesfotos/01.jpg",
+        "categoria": {
+            "nombre": "Magistrales",
+            "id": "magistrales"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "magistrales-02",
+        "titulo": "Magistrales 2",
+        "imagen": "./img/magistralesfotos/02.jpg",
+        "categoria": {
+            "nombre": "Magistrales",
+            "id": "magistrales"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "magistrales-03",
+        "titulo": "Magistrales 3",
+        "imagen": "./img/magistralesfotos/03.jpg",
+        "categoria": {
+            "nombre": "Magistrales",
+            "id": "magistrales"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "magistrales-04",
+        "titulo": "Magistrales 4",
+        "imagen": "./img/magistralesfotos/04.jpg",
+        "categoria": {
+            "nombre": "Magistrales",
+            "id": "magistrales"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "magistrales-05",
+        "titulo": "Magistrales 5",
+        "imagen": "./img/magistralesfotos/05.jpg",
+        "categoria": {
+            "nombre": "Magistrales",
+            "id": "magistrales"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "sagradamadre-01",
+        "titulo": "Sagrada madre 1",
+        "imagen": "./img/sagradamadrefotos/01.jpg",
+        "categoria": {
+            "nombre": "Sagradamadres",
+            "id": "sagradamadre"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "sagradamadre-02",
+        "titulo": "Sagrada madre 2",
+        "imagen": "./img/sagradamadrefotos/02.jpg",
+        "categoria": {
+            "nombre": "Sagradamadre",
+            "id": "sagradamadre"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "sagradamadre-03",
+        "titulo": "Sagrada madre 3",
+        "imagen": "./img/sagradamadrefotos/03.jpg",
+        "categoria": {
+            "nombre": "Sagradamadre",
+            "id": "sagradamadre"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "sagradamadre-04",
+        "titulo": "Sagrada madre 4",
+        "imagen": "./img/sagradamadrefotos/04.jpg",
+        "categoria": {
+            "nombre": "Sagradamadre",
+            "id": "sagradamadre"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "sagradamadre-05",
+        "titulo": "Sagrada madre 5",
+        "imagen": "./img/sagradamadrefotos/05.jpg",
+        "categoria": {
+            "nombre": "Sagradamadre",
+            "id": "sagradamadre"
+        },
+        "precio": 1000
+    }
+]
